@@ -1,0 +1,16 @@
+{
+    "name": "hugo-theme-tailwindcss-simple",
+    "version": "0.1.0",
+    "description": "Just tailwindcss",
+    "main": "index.js",
+    "repository": "",
+    "author": "Lars Bilke",
+    "license": "MIT",
+    "devDependencies": {
+        "autoprefixer": "^9.4.5",
+        "postcss": "^7.0.11",
+        "postcss-cli": "^6.1.1",
+        "postcss-import": "^12.0.1",
+        "tailwindcss": "^0.7.3"
+    }
+}
